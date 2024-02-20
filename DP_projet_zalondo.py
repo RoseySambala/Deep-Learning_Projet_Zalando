@@ -15,7 +15,7 @@ import tensorflow as tf
 
 
 
-"""Recapultatif
+"""récapitulatif
 
 W: weights: le poids qui multiplie l'entree
 Loss: fction perte ou l'erreur
